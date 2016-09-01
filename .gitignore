@@ -10,3 +10,12 @@
 *.lai
 *.la
 *.a
+
+
+# Emacs tmp files
+*~
+*#
+\#*\#
+
+# Vi tmp files
+*.swp

@@ -1,4 +1,4 @@
 CRYPTOGRAPHY_COURSE
 ===================
 
-C code for the course
+Template of the C code for the course
